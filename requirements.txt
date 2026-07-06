@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pdfplumber
+pypdf
+faiss-cpu
+google-generativeai
+python-dotenv
+reportlab
+python-docx
